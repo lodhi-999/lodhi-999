@@ -6,7 +6,7 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=0e75b6" alt=" Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username= lodhi-999 &style=flat-square&color=0e75b6" alt=" Profile Views" />
 </p>
 
 
@@ -27,15 +27,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="lodhi-999" />
+  <img src="https://komarev.com/ghpvc/?username=  lodhi-999 &label=Profile%20Views&color=0e75b6&style=flat" alt="lodhi-999" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="lodhi-999" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=  lodhi-999 &theme=default" alt="lodhi-999" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" alt="top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999 &layout=compact&theme=default" alt="top-langs" />
 </p>
 
 ---
