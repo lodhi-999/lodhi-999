@@ -5,10 +5,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lodhi-999&style=flat-square&color=0e75b6" alt="Profile Views" />
-</p>
-
 
 ### 🔹 About Me
 
