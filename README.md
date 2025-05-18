@@ -23,10 +23,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lodhi-999&label=Profile%20Views&color=0e75b6&style=flat" alt="lodhi-999" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lodhi-999&theme=default" alt="lodhi-999" />
 </p>
 
