@@ -23,11 +23,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lodhi-999&theme=default" alt="lodhi-999" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lodhi-999&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
