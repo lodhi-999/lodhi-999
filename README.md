@@ -14,9 +14,9 @@
 - 📫 Reach me at: **lodhigaurav999@gmail.com**
 - 🌐 Visit my Portfolio: [Click Here](https://www.linkedin.com/in/gaurav-lodhi999)
 - 📂 Explore my GitHub repositories:
-  - 🔹 [sales-analysis](https://github.com/your-username/sales-analysis)
-  - 🔹 [customer-segmentation](https://github.com/your-username/customer-segmentation)
-  - 🔹 [data-visualization-dashboards](https://github.com/your-username/data-visualization-dashboards)
+  - 🔹 [Target_vs_Reality_Sales_Profit_Analysis](https://github.com/lodhi-999/Target_vs_Reality_Full_Funnel_Sales_Profit_Analysis)
+  - 🔹 [Customer-Analytics](https://github.com/lodhi-999/Customer-Analytics)
+  - 🔹 [Dashboards](https://github.com/lodhi-999/Pizza-Analysis-Dasboard)
 
 ---
 
