@@ -1,4 +1,3 @@
-# Gaurav lodhi
 
 <h1 align="center">Hi, I'm Gaurav lodhi 👋</h1>
 <h3 align="center">🔍 Data Analyst | Converting Data into Actionable Insights</h3>
