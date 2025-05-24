@@ -9,7 +9,7 @@
 
 -  Passionate Data Analyst with **1.5+ years of experience**
 -  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis **
--  Tools: Python, SQL, Excel, Power BI
+-  Tools: Python(in Jupiter Notebook) , MySQL, Excel, Power BI
 -  Reach me at: **lodhigaurav999@gmail.com**
 - 🌐 Visit my Portfolio: [Click Here](https://www.linkedin.com/in/gaurav-lodhi999)
 - 📂 Explore my GitHub repositories:
