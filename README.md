@@ -7,7 +7,7 @@
 
 ### 🔹 About Me
 
--  Passionate Data Analyst with **1.5+ years of experience**
+-  Passionate Data Analyst with ** 2+ years of experience**
 -  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis **
 -  Tools: Python(in Jupiter Notebook) , MySQL, Excel, Power BI
 -  Reach me at: **lodhigaurav999@gmail.com**
