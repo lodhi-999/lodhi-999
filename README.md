@@ -8,10 +8,9 @@
 ### 🔹 About Me
 
 -  Passionate Data Analyst with ** 2+ years of experience**
--  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis **
+-  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis | Time Series Forecasting(Prophet/Arima) **
 -  Tools: Python(in Jupyter Notebook) , MySQL, Excel, Power BI
 -  Reach me at: **lodhigaurav999@gmail.com**
-- 🌐 Visit my Portfolio: [Click Here](https://www.linkedin.com/in/gaurav-lodhi999)
 - 📂 Explore my GitHub repositories:
   - 🔹 [Crop Yield Forecasting](https://github.com/lodhi-999/Crop-Yield-Prediction)
   - 🔹 [Pet E-Commerce Customer & Product-Analysis](https://github.com/lodhi-999/Pet-E-commerce-Customer-Product-Analysis)
