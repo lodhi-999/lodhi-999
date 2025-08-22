@@ -8,7 +8,7 @@
 ### 🔹 About Me
 
 -  Passionate Data Analyst with ** 2+ years of experience**
--  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis | Time Series Forecasting(Prophet/Arima) **
+-  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis | Time Series Forecasting **
 -  Tools: Python(in Jupyter Notebook) , MySQL, Excel, Power BI
 -  Reach me at: **lodhigaurav999@gmail.com**
 - 📂 Explore my GitHub repositories:
