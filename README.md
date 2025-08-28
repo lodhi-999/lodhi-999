@@ -24,15 +24,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lodhi-999&theme=default&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lodhi-999&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lodhi-999&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lodhi-999&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default&hide_border=false&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default" alt="Top Languages" />
 </p>
 ---
 
