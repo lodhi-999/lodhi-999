@@ -28,10 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lodhi-999&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default&hide_border=false&border_radius=10" alt="Top Languages" />
 </p>
 ---
