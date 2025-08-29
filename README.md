@@ -19,7 +19,7 @@
   - 🔹 [Customer-Analytics](https://github.com/lodhi-999/Customer-Analytics)
   - 🔹 [Dashboards](https://github.com/lodhi-999/Gameplay-Player-Retention-Dashboard)
 
-
+---
 
 ### 📊 GitHub Stats
 
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default&hide_border=false&border_radius=10" alt="Top Languages" />
 </p>
 
-
+---
 ### 🌱 Currently Learning
 - NLP for Machine Learning
 
