@@ -12,8 +12,8 @@
 -  Tools: Python(in Jupyter Notebook) , MySQL, Excel, Power BI
 -  Reach me at: **lodhigaurav999@gmail.com**
 - 📂 Explore my GitHub repositories:
+  - 🔹 [Player Funnel Profitability Analysis](https://github.com/lodhi-999/Player-Funnel-Profitability-Analysis-)
   - 🔹 [Crop Yield Forecasting](https://github.com/lodhi-999/Crop-Yield-Prediction)
-  - 🔹 [Pet E-Commerce Customer & Product-Analysis](https://github.com/lodhi-999/Pet-E-commerce-Customer-Product-Analysis)
   - 🔹 [Sales-Marketing-Analysis](https://github.com/lodhi-999/Sales-Marketing-Analysis)
   - 🔹 [Target_vs_Reality_Sales_Profit_Analysis](https://github.com/lodhi-999/Target_vs_Reality_Full_Funnel_Sales_Profit_Analysis)
   - 🔹 [Customer-Analytics](https://github.com/lodhi-999/Customer-Analytics)
