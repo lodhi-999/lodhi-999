@@ -1,43 +1,20 @@
-
-<h1 align="center">Hi, I'm Gaurav lodhi 👋</h1>
-<h3 align="center">🔍 Data Analyst | Converting Data into Actionable Insights</h3>
-
----
-
-
-### 🔹 About Me
-
--  Passionate Data Analyst with ** 2+ years of experience**
--  Expertise in: ** Data Visualization/ Cleaning / Preprocessing| Statistical Analysis | SQL | Python | Power BI | Regression & Clustering Analysis | Time Series Forecasting **
--  Tools: Python(in Jupyter Notebook) , MySQL, Excel, Power BI
--  Reach me at: **lodhigaurav999@gmail.com**
-- 📂 Explore my GitHub repositories:
-  - 🔹 [Player Funnel Profitability Analysis](https://github.com/lodhi-999/Player-Funnel-Profitability-Analysis-)
-  - 🔹 [Crop Yield Forecasting](https://github.com/lodhi-999/Crop-Yield-Prediction)
-  - 🔹 [Sales-Marketing-Analysis](https://github.com/lodhi-999/Sales-Marketing-Analysis)
-  - 🔹 [Target_vs_Reality_Sales_Profit_Analysis](https://github.com/lodhi-999/Target_vs_Reality_Full_Funnel_Sales_Profit_Analysis)
-  - 🔹 [Customer-Analytics](https://github.com/lodhi-999/Customer-Analytics)
-  - 🔹 [Dashboards](https://github.com/lodhi-999/Gameplay-Player-Retention-Dashboard)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Gaurav Lodhi 👋</h1>
+<h3 align="center">Data Analyst | SQL · Python · Power BI · Excel</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lodhi-999&theme=default&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=default&hide_border=false&border_radius=10" alt="Top Languages" />
+  <a href="https://lodhi-999.github.io"><b>🌐 View my portfolio</b></a>
 </p>
 
 ---
-### 🌱 Currently Learning
-- NLP for Machine Learning
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lodhi-999&theme=nord&hide_border=false&border_radius=10" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodhi-999&layout=compact&theme=nord&hide_border=false&border_radius=10" alt="Top Languages" height="170" />
+</p>
 
 ---
 
-### 💡 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-lodhi999)
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-lodhi999">LinkedIn</a> ·
+  <a href="mailto:lodhigaurav999@gmail.com">lodhigaurav999@gmail.com</a>
+</p>
