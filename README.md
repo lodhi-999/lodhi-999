@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL · Python · Power BI · Excel</h3>
 
 <p align="center">
-  <a href="https://lodhi-999.github.io"><b>🌐 View my portfolio</b></a>
+  <a href="https://lodhi-999.github.io/portfolio/"><b>🌐 View my portfolio</b></a>
 </p>
 
 ---
